@@ -1,2 +1,2 @@
 # AudioAudit
-Project STT and Prompt for AudiAudit
+Project STT and Prompt for Audio Audit
